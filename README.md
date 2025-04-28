@@ -13,7 +13,7 @@
 
 ### My Socials are listed below  
 ◌  LinkedIn at [theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)  
-◌ Portfolio/Website at  [Your Portfolio Link]  
+◌ Portfolio/Website at  [theSatya.in](https://satya643.github.io/My-Portfolio/)
 ◌ Mail me at [satyaaa768@gmail.com](mailto:satyaaa768@gmail.com) regarding any work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
