@@ -3,21 +3,20 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ● 📍 I live in Gurugram, India  
-● I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.  
-● I usually work with design systems and UI-component-based React projects and make complex and beautiful components.  
-● I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering, and Design-related stuff.  
-● My Tech Stack: ReactJS, NextJS, TypeScript, Tailwind, MongoDB, Figma.  
-● Languages I know: JavaScript, TypeScript, Java.
+● I am currently working with technologies based on Javascript such as ReactJS, NextJS, NodeJS.  
+● I usually work with design systems and UI-component-based React projects and create complex and beautiful components.  
+● I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering, and other design-related tasks.  
+● **My Tech Stack**: ReactJS, NextJS, TypeScript, Tailwind, MongoDB, Figma.  
+● **Languages I know**: JavaScript, TypeScript, Java.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-### My Socials are listed below  
-◌  LinkedIn at [theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)  
-◌ Portfolio/Website at  [theSatya.in](https://satya643.github.io/My-Portfolio/)
-◌ Mail me at [satyaaa768@gmail.com](mailto:satyaaa768@gmail.com) regarding any work or if you just wanna connect
+### My Socials
+◌ [LinkedIn - theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)  
+◌ [Portfolio/Website - theSatya.in](https://satya643.github.io/My-Portfolio/)  
+◌ Mail me at [satyaaa768@gmail.com](mailto:satyaaa768@gmail.com) for work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ### My Work Experience  
 ◌ 🔴 Worked as a Frontend Developer Intern at [SmartBrains](https://www.smartbrains.com)
-
