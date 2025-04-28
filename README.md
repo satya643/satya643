@@ -12,8 +12,8 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ### My Socials
-◌ [LinkedIn - theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)  
-◌ [Portfolio/Website - theSatya.in](https://satya643.github.io/My-Portfolio/)  
+◌ LinkedIn - [theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)  
+◌ Portfolio/Website - [theSatya.in](https://satya643.github.io/My-Portfolio/)  
 ◌ Mail me at [satyaaa768@gmail.com](mailto:satyaaa768@gmail.com) for work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
