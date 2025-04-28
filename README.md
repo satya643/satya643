@@ -12,25 +12,10 @@ Hello, I am Satya Prakash Singh 👋
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
   ● My Social are listed below  
-    ◌  LinkedIn at theSatyaa
-    ◌ Portfolio/Website at
-    ◌ Mail me at regarding any work or if you just wanna connect
+    ◌  LinkedIn at [theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)
+    ◌ Portfolio/Website at 
+    ◌ Mail me at [satyaaa768@gmail.com]( regarding any work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
   ● My Work Experience 
-     ◌ 🔴 Worked as a Frontend Developer Intern at SmartBrains
-
-<!--
-**satya643/satya643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     ◌ 🔴 Worked as a Frontend Developer Intern at [SmartBrains](https://www.smartbrains.com)
