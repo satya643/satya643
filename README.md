@@ -2,7 +2,7 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-● 📍 I live in Gurugram, India  
+● 📍 I live in Noida, India  
 ● I am currently working with technologies based on Javascript such as ReactJS, NextJS, NodeJS.  
 ● I usually work with design systems and UI-component-based React projects and create complex and beautiful components.  
 ● I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering, and other design-related tasks.  
