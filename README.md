@@ -19,4 +19,5 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ### My Work Experience  
+◌ 🔴 Working as a Full stack Developer full time at [WTF GYMS ACADEMY](https://www.wtfgyms.com/)
 ◌ 🔴 Worked as a Frontend Developer Intern at [SmartBrains](https://www.smartbrains.com)
