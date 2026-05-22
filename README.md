@@ -2,23 +2,25 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-●📍I live in Noida, India  
+●📍I live in Pune, Maharashtra  
 ● I am currently working with technologies based on Javascript such as ReactJS, NextJS, NodeJS.  
 ● I usually work with design systems and UI-component-based React projects and create complex and beautiful components.  
 ● I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering, and other design-related tasks.  
-● **My Tech Stack**: ReactJS, NextJS, TypeScript, Tailwind, MongoDB, Figma.  
+● **My Tech Stack**: ReactJS, NextJS, TypeScript, Tailwind, MongoDB, Figma, PostgreSql.  
 ● **Languages I know**: JavaScript, TypeScript, Java.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ### My Socials
 ◌ LinkedIn - [theSatyaa](https://www.linkedin.com/in/satya-prakash-41451328a/)  
-◌ Portfolio/Website - [theSatya.in](https://my-portfolio08032026.vercel.app/)  
+◌ Portfolio/Website - [theSatya.in](https://my-portfolio-iwps.vercel.app/)  
 ◌ Mail me at [satyaaa768@gmail.com](mailto:satyaaa768@gmail.com) for work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-### My Work Experience  
+### My Work Experience 
+
+◌ 🔴 Working as a Full stack Developer full time at [Wayone it Solutions Pvt Ltd](https://www.wayoneit.com/)
 ◌ 🔴 Working as a Full stack Developer full time at [WTF GYMS ACADEMY](https://www.wtfgyms.com/)
 <br/>
 ◌ 🔴 Worked as a Frontend Developer Intern at [SmartBrains](https://www.smartbrains.com)
