@@ -21,6 +21,7 @@
 ### My Work Experience 
 
 ◌ 🔴 Working as a Full stack Developer full time at [Wayone it Solutions Pvt Ltd](https://www.wayoneit.com/)
+<br/>
 ◌ 🔴 Working as a Full stack Developer full time at [WTF GYMS ACADEMY](https://www.wtfgyms.com/)
 <br/>
 ◌ 🔴 Worked as a Frontend Developer Intern at [SmartBrains](https://www.smartbrains.com)
